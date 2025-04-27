@@ -36,9 +36,10 @@ Copy
 Edit
 expense-tracker/
 ├── index.html   # Main application file
-├── style.css    # (Optional if you separate styles later)
+├── style.css    # CSS File
 ├── README.md    # Project documentation
-└── your-image.jpg # Background image
+└── image.jpg    # Background image
+
 🚀 How to Setup and Run
 Download or Clone the repository.
 
