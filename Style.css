@@ -1,0 +1,21 @@
+    body {
+      background-image: url('https://media.istockphoto.com/id/1346853640/photo/saving-money-concept-man-hand-putting-row-and-coin-write-finance-saving-money-concept-man.jpg?s=612x612&w=0&k=20&c=1I48V9GUU0liAJ-dMA4SW-h5LoejkBTlEZJ-0b_vmXE=');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: fixed;
+    }
+    .card {
+      background: rgba(255, 255, 255, 0.2); /* very light transparent white */
+      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); /* soft big shadow */
+      backdrop-filter: blur(10px); /* the main blur magic */
+      -webkit-backdrop-filter: blur(10px); /* safari support */
+      border-radius: 15px;
+      border: 1px solid rgba(255, 255, 255, 0.3); /* soft border */
+    }
+     
+    
+    h2 {
+      font-weight: 700;
+      color: #FFBF00;
+    }
